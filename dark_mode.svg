@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="615px" height="730px" font-size="16px">
+  <style>
+    @font-face {
+      src: local('Consolas'), local('Consolas Bold');
+      font-family: 'ConsolasFallback';
+      font-display: swap;
+      -webkit-size-adjust: 109%;
+      size-adjust: 109%;
+    }
+    .key { fill: #ffa657; }
+    .value { fill: #a5d6ff; }
+    .cc { fill: #616e7f; }
+    text, tspan { white-space: pre; }
+  </style>
+  <rect width="615px" height="730px" fill="#161b22" rx="15"/>
+  <text x="15" y="30" fill="#c9d1d9">
+    <tspan x="15" y="30">Malthe Current Status</tspan> 
+    <tspan x="15" y="50" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Technical Education Copenhagen</tspan>
+    <tspan x="15" y="70" class="cc">. </tspan><tspan class="key">Studying</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Data technician with specialty in programming</tspan>
+    <tspan x="15" y="90" class="cc">. </tspan><tspan class="key">Education Progress</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">3/6 main courses</tspan>
+    <tspan x="15" y="110" class="cc">. </tspan><tspan class="key">Internship Status</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Unaffiliated</tspan>
+    <tspan x="15" y="150" font-size="18" font-weight="bold" fill="#a5d6ff">- My Coding Toolbox</tspan> 
+    <tspan x="15" y="190">- Operating Systems</tspan> 
+    <tspan x="15" y="210" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Windows 11, macOS 15.3.1</tspan>
+    
+    <tspan x="15" y="250">- Programming Languages</tspan> 
+    <tspan x="15" y="270" class="cc">. </tspan><tspan class="key">Programming</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">JavaScript, Python, C#</tspan>
+    <tspan x="15" y="290" class="cc">. </tspan><tspan class="key">Scripting</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">Bash, PowerShell</tspan>
+
+    <tspan x="15" y="330">- Web Technologies</tspan> 
+    <tspan x="15" y="350" class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">HTML, CSS, JSON, YAML</tspan>
+    <tspan x="15" y="370" class="cc">. </tspan><tspan class="key">Frontend Frameworks</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">Angular, Vue.js, React</tspan>
+    <tspan x="15" y="390" class="cc">. </tspan><tspan class="key">Backend Frameworks</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">.NET</tspan>
+    <tspan x="15" y="430">- Database Technologies</tspan> 
+    <tspan x="15" y="450" class="cc">. </tspan><tspan class="key">SQL</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">MySQL, Microsoft SQL Server</tspan>
+
+    <tspan x="15" y="490">- Tools</tspan> 
+    <tspan x="15" y="510" class="cc">. </tspan><tspan class="key">Version Control</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Git, GitHub</tspan>
+    <tspan x="15" y="530" class="cc">. </tspan><tspan class="key">Containerization</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Docker</tspan>
+
+    <tspan x="15" y="570">- Game Development</tspan> 
+    <tspan x="15" y="590" class="cc">. </tspan><tspan class="key">Game Engines</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Unity, Unreal Engine</tspan>
+    <tspan x="15" y="610" class="cc">. </tspan><tspan class="key">Game Programming</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">C#, C++</tspan>
+    <tspan x="15" y="630" class="cc">. </tspan><tspan class="key">Game Design</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Unity, Blender, aseprite</tspan>
+
+    <tspan x="15" y="670">- .NET Technologies</tspan> 
+    <tspan x="15" y="690" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Blazor, EF Core, ASP.NET Core</tspan>
+  </text>
+</svg>
